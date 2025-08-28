@@ -1,4 +1,3 @@
-
  from scipy import *
  from numpy import *
  from pylab import *
@@ -249,4 +248,5 @@ if(abs(dist - oldDist) < 1.0e-4):
 	temp *= fCool
  	oldDist = dist
  
+
 Plot(seq, P, dist, PNames)
