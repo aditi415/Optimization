@@ -1,0 +1,11 @@
+Mumbai              10  20
+Delhi               50  80
+Bangalore           30  10
+Kolkata             70  50
+Chennai             40  5
+Pune                12  18
+Hyderabad           25  15
+Ahmedabad           20  35
+Jaipur              45  60
+Lucknow             55  70
+
