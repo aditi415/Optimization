@@ -4,7 +4,6 @@
  from geopy.geocoders import Nominatim
  import random
 
-
 def Distance(P1, P2):
   	if(P1 == P2):
 		 return 0.0
